@@ -4,7 +4,9 @@
 
 This is a browser extension that allows you to delete annoying popups from a page.
 
-It's cross-browser compatible with recent Firefox and Chrome-based browsers.
+It's cross-browser compatible with recent Firefox and Chrome-based browsers. Built using Manifest V3 browser extension APIs.
+
+> Note: This extension requires Chrome v121 or above, which is currently available as a canary release. Chrome v121 should reach general release before February 2024.
 
 ## Installation
 
